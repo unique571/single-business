@@ -554,7 +554,7 @@ section{
         margin: 0;
     }
     .set{
-        max-width: 100%;
+        width: 100%;
     }
     .faq .row{
         width: 80%;
