@@ -23,7 +23,6 @@ html{
 /* setup & reusable stylings */
 img{
     width: 100%;
-    height: 80%;
 }
 a{
     text-decoration: none;
@@ -280,6 +279,9 @@ section{
 }
 .team-img{
     position: relative;
+}
+.set{
+    height: 400px;
 }
 .team-icons{
     position: absolute;
