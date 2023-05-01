@@ -553,6 +553,9 @@ section{
     .team-item{
         margin: 0;
     }
+    .set{
+        max-width: 100%;
+    }
     .faq .row{
         width: 80%;
         margin-left: auto;
