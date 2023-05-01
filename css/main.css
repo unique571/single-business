@@ -343,7 +343,7 @@ section{
 }
 .faq-content{
     background: #fff;
-    overflow: visible;
+    overflow: scroll;
     height: 0;
     padding: 0 1.8rem;
     transition: var(--transition);
