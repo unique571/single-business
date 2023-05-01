@@ -23,6 +23,7 @@ html{
 /* setup & reusable stylings */
 img{
     width: 100%;
+    height: 80%;
 }
 a{
     text-decoration: none;
